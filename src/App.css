@@ -1,0 +1,4 @@
+/*make class to extend background overflow*/
+.App {
+  overflow: auto;
+}
